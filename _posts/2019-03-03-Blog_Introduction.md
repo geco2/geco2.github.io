@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Andi
+tags: offtopic
 ---
 I've been thinking about a blog for some time now. There are so many impressions and I am not able to follow them directly when they pass my mind. So the idea is to make a "backup" of them and make them available to everyone who's interested.
  
