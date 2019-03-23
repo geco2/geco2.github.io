@@ -4,8 +4,8 @@ author: Andi
 title: "I see a hidden learning in the wrecked Azure German Story"
 tags: cloud it 
 ---
-End of 2018 Microsoft and T-Systems announced the end of the German azure cloud. 
-Both companies started in September 2016 to create an Azure environment that is managed by a local company only to specially serve those clients and workloads that could not migrated to regular Microsoft operated locations (https://www.thefastmode.com/technology-solutions/9077-microsoft-partners-deutsche-telekom-to-open-azure-cloud-data-center-in-germany and https://www.theregister.co.uk/2018/09/04/microsoft_germany_emerging_from_behind_deutsche_telekom_cloud/).
+End of 2018 Microsoft and T-Systems announced the end of the German azure cloud [link][1]. 
+Both companies started in September 2016 to create an Azure environment [link][2] that is managed by a local company only to specially serve those clients and workloads that could not migrated to regular Microsoft operated locations. 
 In order to ensure that any client data can not accessed by Microsoft, they decided to hand over any data operation to a local subsidiary.
 They have chosen Deutsche Telekom as a partner cause of their reputation in data protection and big enterprises IT operations on the local market. 
 Azure Germany was not connected to the whole azure Eco system but really completely disconnected as well from a network and management back-end perspective.
@@ -31,3 +31,6 @@ But we as IT folk should definitely learn as well from these massive fail as we 
 Accept the reason and effect should help us to adjust our behavior and allow us to much more open start to work on what is really hindering us.
 
 Thank you Microsoft and Deutsche Telekom, that learning was liberally sponsored by you!
+
+[1]: https://www.thefastmode.com/technology-solutions/9077-microsoft-partners-deutsche-telekom-to-open-azure-cloud-data-center-in-germany
+[2]: https://www.theregister.co.uk/2018/09/04/microsoft_germany_emerging_from_behind_deutsche_telekom_cloud/
