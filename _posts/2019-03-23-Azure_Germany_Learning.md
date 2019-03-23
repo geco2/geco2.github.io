@@ -6,8 +6,10 @@ tags: cloud it
 ---
 End of 2018 Microsoft and T-Systems announced the end of the German azure cloud [link][1]. 
 Both companies started in September 2016 to create an Azure environment [link][2] that is managed by a local company only to specially serve those clients and workloads that could not migrated to regular Microsoft operated locations. 
+
 In order to ensure that any client data can not accessed by Microsoft, they decided to hand over any data operation to a local subsidiary.
 They have chosen Deutsche Telekom as a partner cause of their reputation in data protection and big enterprises IT operations on the local market. 
+
 Azure Germany was not connected to the whole azure Eco system but really completely disconnected as well from a network and management back-end perspective.
 Without knowing the details i assume a massive impact to the already used operation model of Microsoft for legacy Azure locations.
 I think the only other dedicated clouds are he US gov cloud and i assume a comparable situation in china.
