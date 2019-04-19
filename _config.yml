@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 title: Andi's Blog
 description: Things to think
 show_downloads: false
+url: https://geco2.github.io
+plugins:
+  - jekyll-feed
