@@ -2,3 +2,5 @@
   link: /
 - name: About
   link: /about.html
+- name: RSS/Atom
+  link: https://geco2.github.io/feed.xml
