@@ -13,13 +13,14 @@ Another aspect why automation is our friend is scaling. Did you ever installed 5
 With micro-service architectures and cloud resources in mind that scenario becomes even more significant. Modern application architectures can most probably not get implemented, deployed and maintained without automation.
 
 Other than this major reasons, we potentially get further values from proper automation like:
-  * Speed
-  * Quality 
-  * Predictable results
-  * Standardization
-  * Security
-  * Fun
-  * ...
+* Speed
+* Quality 
+* Predictable results
+* Standardization
+* Security
+* Fun
+* ...
+
 **Is "Automation the new black" and in all cases the answer?** No, please not! There are reasons not to start with automate things like the well known term "shit in, shit out". Bad processes or architectures can not be fixed with automation. It might be smarter to first start a activity to fix them before you automate aspects.
 Popper planing has to take place to manage expectations. Always start small with potential low hanging fruits, automation is not a easy task, it will bind resources and take time to be done. Stakeholders might not accept that. Better be prepared with some fast results.
 The power of automation is understood, but as always huge power comes with huge responsibility. A single human error can be replicated unbelievable fast and end in manual correction of thousands of instances. People, documentation and lean design shout be part of your core believes in any automation project. 
