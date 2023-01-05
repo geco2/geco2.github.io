@@ -4,7 +4,7 @@ title: About
 ---
 # About page
 
-I am a technologist with passion for change, the maker and hacker scene. Most likely, most of the content in this blog will focus on such topics. Other interests such as politics, ethics and general brain food will be added from time to time. It is not my intention to use the text for marketing purposes myself or as part of my job. 
+I am a technologist with passion for change and the maker and hacker scene. Most likely, most of the content in this blog will focus on such topics. Other interests such as politics, ethics and general brain food will be added from time to time. It is not my intention to use the text for marketing purposes myself or as part of my job. 
 It is only me personally, my thoughts and experiences that I have shared with other people.
 
 For my other projects are use the CC Zero v1.0 License. That allows you to use, adjust and distribute content. Not sure if it make sense to have a license for texts, but i think the message is valid. I'm happy with a reference to me as a person or my blog. But, that is not necessary.
